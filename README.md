@@ -32,7 +32,7 @@ make build
 make docker
 ```
 编译成功后会自动生成 base:latest 镜像
-可使用 docker images |grep base 查看是否生成
+可使用 docker images | grep base 查看是否生成
 
 ##5.本课程使用 go-micro v3 版本作为微服务开发框架
 框架地址：https://github.com/asim/go-micro
